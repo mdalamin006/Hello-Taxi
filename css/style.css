@@ -23,7 +23,11 @@ body {
     color: #1F1F1F;
 }
 
-
+/* Selection */
+::selection{
+    color:#FFC61A;
+    background-color: #111111;
+}
 /* Go To top f*/
 .gototop {
     border-radius: 50%;
