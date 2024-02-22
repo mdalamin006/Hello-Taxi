@@ -1,0 +1,1061 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) {
+
+   /* Header  start */
+   .logo {
+     font-size: 30px;
+   }
+
+   .icon-clr {
+     font-size: 25px;
+   }
+
+   .menu li {
+     text-align: right;
+   }
+
+   .menu li a {
+     font-size: 15px;
+   }
+
+   .btn-custom {
+     margin-top: 10px;
+     margin-left: 0px;
+
+   }
+
+   .btn {
+     padding: 10px 15px !important;
+   }
+
+   /* Header  end */
+   /* Slider Start */
+   .slider {
+     padding: 25px 0px;
+   }
+
+   .slider-text h5 {
+     margin-top: 15px;
+     margin-bottom: 8px;
+     text-align: center;
+
+   }
+
+   .slider-text h1 {
+     margin-bottom: 0px;
+     text-align: center;
+     font-size: 25px;
+     line-height: 30px;
+   }
+
+   .slider-text p {
+     margin: 9px 0 20px;
+     text-align: center;
+   }
+
+   .slider-btn {
+     text-align: center;
+     margin: 0px 28%;
+     padding: 10px 9px !important;
+   }
+
+   .cid {
+     bottom: -17px;
+   }
+
+   .cid [data-bs-target] {
+     width: 6px;
+     height: 6px;
+   }
+
+   /* About US start */
+   .custom-padding {
+     padding: 50px 0px;
+   }
+
+   .a_img img {
+     margin: 0;
+     padding: 0px;
+   }
+
+   .ab_img_content {
+     width: 125px;
+     height: 125px;
+     top: 76px;
+     left: 86px;
+   }
+
+   .ab_img_content h1 {
+     font-size: 24px;
+   }
+
+   .ab_img_content p {
+     margin-right: 7px;
+     font-size: 12px;
+   }
+
+   .about-content {
+     margin-left: 0px;
+   }
+
+   .c_title h4 {
+     text-align: center;
+     margin: 15px 0px 0px;
+     font-size: 20px;
+   }
+
+   .c_title h1 {
+     text-align: center;
+     margin: 0 0 9px;
+     font-family: Fira_Sans;
+     font-weight: 500;
+     font-size: 30px;
+     color: #1F1F1F;
+   }
+
+   .about-content p {
+     text-align: center;
+     letter-spacing: 0px;
+     line-height: 28px;
+   }
+
+   .about-item {
+     text-align: center;
+   }
+
+   .about-item-list {
+     margin-top: 5px;
+   }
+
+   .about-btn {
+     margin: 13px 28% 0px;
+     padding: 12px 20px !important;
+   }
+
+   /* Services Start */
+   .services {
+     padding-top: 0px;
+   }
+
+   .s-service {
+     padding: 0px;
+     border-bottom: 1px dotted;
+     border-right: none;
+   }
+
+   .s-service-content i {
+     margin: 25px 0px;
+     font-size: 55px;
+   }
+
+   .s-service-content h5 {
+     margin-bottom: 10px;
+     font-weight: 600;
+     font-size: 18px;
+
+   }
+
+   .s-service-content p {
+     padding: 0px 10px;
+   }
+
+   /* Number Speak Start */
+   .single-number {
+     padding: 13.5px 0;
+     margin: 30px 30px 0px;
+   }
+
+   .single-number i {
+     margin-bottom: 10px;
+     font-size: 60px;
+   }
+
+   .single-number h1 {
+     margin-bottom: 0px;
+     font-family: Fira_Sans;
+     font-size: 35px;
+   }
+
+   .single-number p {
+     font-size: 16px;
+   }
+
+   /* Features Start*/
+   .s-features:nth-child(2) {
+     margin-top: 30px;
+   }
+
+   .s-features:nth-child(3) {
+     margin-top: 30px;
+     border: none;
+   }
+
+   .s-features {
+     border-bottom: 1px dotted #ffc61a;
+     border-right: none;
+   }
+
+   .s-features-content {
+     padding: 0px 0px 20px;
+   }
+
+   .s-features-content i {
+     width: 80px;
+     height: 80px;
+     font-size: 50px;
+     margin-bottom: 25px;
+   }
+
+   .s-features-content h3 {
+     font-size: 20px;
+   }
+
+   .s-features-content p {
+     font-size: 14px;
+     margin-bottom: 10px;
+     margin-top: 10px;
+   }
+
+   /* Price Rate start */
+   .s-price {
+     margin-top: 25px;
+   }
+
+   .s-price-item h4 {
+     font-size: 22px;
+     margin-top: 15px;
+     margin-bottom: 10px;
+   }
+
+   .price-rate {
+     margin-top: 15px;
+     font-size: 30px;
+   }
+
+   .price-rate span {
+     font-size: 20px;
+   }
+
+   /* Book Now */
+   .btn-book {
+     padding: 14px 85px !important;
+   }
+
+   .book-from {
+     margin: 0px 0px 25px;
+     padding: 14px;
+     border-radius: 3px;
+   }
+
+   /* Partners Start */
+
+   .p-title h2 {
+
+     margin-bottom: 20px;
+
+   }
+
+   .p-title {
+     text-align: center;
+   }
+
+   .b-img-s {
+     text-align: center;
+   }
+
+   .b-img-s:nth-child(3) {
+     margin-top: 30px;
+   }
+
+   .b-img-s:nth-child(4) {
+     margin-top: 30px;
+   }
+
+   /* Testimonial */
+   .single-test p {
+     text-align: center;
+   }
+
+   .author {
+     text-align: center;
+   }
+
+   .author-text {
+     margin-left: 0px;
+   }
+
+   .author-text h2 {
+     text-align: center;
+     font-size: 20px;
+   }
+
+   .author-text h4 {
+     font-size: 14px;
+     text-align: center;
+   }
+
+   /* Footer Top Start */
+   .footer-top {
+     padding: 50px 0px !important;
+   }
+
+   .s-footer {
+
+     text-align: center;
+   }
+
+   .s-footer h3 {
+     margin-top: 17px;
+     margin-bottom: 12px;
+   }
+
+   .s-footer p {
+     padding-right: 0%;
+   }
+
+   .social-icon-list li i {
+     color: #FFFFFF;
+     font-size: 20px;
+   }
+
+   .contact {
+     margin-top: 4px;
+     padding-right: 0;
+   }
+
+   .contact-news {
+     margin: 0;
+     padding-right: 0px;
+   }
+
+   .social-icon-list {
+     margin-top: -10px;
+   }
+
+   .subscribe button {
+     top: 50%;
+     right: 26px;
+     width: 40px;
+     height: 40px;
+     line-height: 39px;
+   }
+
+   .subscribe input {
+     margin: 0px 0px 0px;
+     width: 90%;
+     height: 90%;
+     padding: 15px 0px;
+     padding-left: 20px;
+   }
+ }
+
+ /* Small devices (landscape phones, 576px and up) */
+ @media (min-width: 576px) and (max-width: 767.98px) {
+
+   /* Header  start */
+   .logo {
+     font-size: 35px;
+   }
+
+   .menu li {
+     text-align: right;
+   }
+
+   .menu li a {
+     font-size: 16px;
+   }
+
+   .btn-custom {
+     margin-top: 10px;
+     margin-left: 0px;
+
+   }
+
+   .btn {
+     padding: 8px 15px !important;
+   }
+
+   /* Header  end */
+   /* Slider Start */
+   .slider {
+     padding: 25px 0px;
+   }
+
+   .slider-text h5 {
+     text-align: center;
+     margin-top: 14px;
+     margin-bottom: 0px;
+   }
+
+   .slider-text h1 {
+     margin-bottom: 0px;
+     text-align: center;
+     font-size: 29px;
+     line-height: 35px;
+
+   }
+
+   .slider-text p {
+     margin: 0px 0 20px;
+     text-align: center;
+   }
+
+   .slider-btn {
+     margin: 0px 38%;
+     padding: 10px 10px !important;
+     text-align: center;
+
+   }
+
+   .cid {
+     bottom: -34px;
+   }
+
+   .cid [data-bs-target] {
+     width: 8px;
+     height: 8px;
+   }
+
+   /* About US start */
+   .custom-padding {
+     padding: 50px 0px;
+   }
+
+   .a_img img {
+     margin: 0;
+     padding: 0px 12%;
+   }
+
+   .ab_img_content {
+     width: 125px;
+     height: 125px;
+     top: 91px;
+     left: 120px;
+   }
+
+   .ab_img_content h1 {
+     font-size: 25px;
+   }
+
+   .ab_img_content p {
+     margin-right: 7px;
+     font-size: 13px;
+
+   }
+
+   .about-content {
+     margin-left: 0px;
+   }
+
+   .c_title h4 {
+     text-align: center;
+     margin: 15px 0px 0px;
+     font-size: 23px;
+   }
+
+   .c_title h1 {
+     text-align: center;
+     margin: 0 0 9px;
+     font-family: Fira_Sans;
+     font-weight: 500;
+     font-size: 32px;
+     color: #1F1F1F;
+   }
+
+   .about-content p {
+     text-align: center;
+     letter-spacing: 0px;
+     line-height: 29px;
+   }
+
+   .about-item {
+     text-align: center;
+   }
+
+   .about-item-list {
+     margin-top: 6px;
+   }
+
+   .about-btn {
+     margin: 13px 37% 0px;
+     padding: 13px 23px !important;
+   }
+
+   /* Services Start */
+   .services {
+     padding-top: 0px;
+   }
+
+   .s-service {
+     padding: 0px 13px;
+   }
+
+   .s-service:nth-child(2) {
+     border: none;
+   }
+
+   .s-service-content i {
+     margin-bottom: 20px;
+     font-size: 60px;
+   }
+
+   .s-service-content h5 {
+     font-size: 17px;
+     margin-bottom: 10px;
+   }
+
+   /* Number Speak Start */
+   .single-number {
+     padding: 26.5px 0;
+     margin-top: 18px;
+   }
+
+   .single-number i {
+     margin-bottom: 10px;
+     font-size: 70px;
+   }
+
+   .single-number h1 {
+     margin-bottom: 0px;
+     font-family: Fira_Sans;
+     font-size: 45px;
+   }
+
+   .single-number p {
+     font-size: 16px;
+   }
+
+   /* Features Start*/
+   .s-features:nth-child(2) {
+     border: none;
+   }
+
+   .s-features:nth-child(3) {
+     margin: 30px auto 0px;
+     border-right: none;
+   }
+
+   .s-features-content {
+     padding: 0px;
+   }
+
+   .s-features-content i {
+     width: 90px;
+     height: 90px;
+     border-radius: 50%;
+     font-size: 50px;
+     margin-bottom: 30px;
+   }
+
+   .s-features-content h3 {
+     font-size: 17px;
+   }
+
+   .s-features-content p {
+     font-size: 14px;
+     margin-bottom: 15px;
+     margin-top: 15px;
+   }
+
+   /* Price Rate start */
+   .s-price {
+     margin-top: 25px;
+   }
+
+   .s-price-item h4 {
+     margin-top: 15px;
+     margin-bottom: 10px;
+   }
+
+   .price-rate {
+     margin-top: 15px;
+     font-size: 35px;
+   }
+
+   /* Book Now */
+   .btn-book {
+     padding: 18px 60px !important;
+   }
+
+   /* Partners Start */
+   .p-title {
+     text-align: center;
+   }
+
+   .b-img-s {
+     text-align: center;
+   }
+
+   .b-img-s:nth-child(3) {
+     margin-top: 30px;
+   }
+
+   .b-img-s:nth-child(4) {
+     margin-top: 30px;
+   }
+
+   /* Testimonial */
+   .single-test p {
+     text-align: center;
+   }
+
+   .author {
+     text-align: center;
+   }
+
+   .author-text {
+     margin-left: 0px;
+   }
+
+   .author-text h2 {
+     text-align: center;
+     font-size: 20px;
+   }
+
+   .author-text h4 {
+     font-size: 14px;
+     text-align: center;
+   }
+
+   /* Footer Top Start */
+   .footer-top {
+     padding: 50px 0px !important;
+   }
+
+   .s-footer {
+
+     text-align: center;
+   }
+
+   .contact {
+     margin-top: 4px;
+     padding-right: 0;
+   }
+
+   .s-footer:nth-child(3) {
+     margin-top: 14px;
+   }
+
+   .s-footer h3 {
+     margin-bottom: 20px;
+   }
+
+   .s-footer p {
+     padding-right: 2%;
+   }
+
+   .contact-news {
+     margin: 0;
+     padding-right: 0px;
+   }
+
+   .social-icon-list {
+     margin-top: 20px;
+   }
+
+   .subscribe button {
+     top: 50%;
+     right: 113px;
+     width: 40px;
+     height: 40px;
+     line-height: 39px;
+   }
+
+   .subscribe input {
+     margin: 0px 0px 0px;
+     width: 60%;
+     height: 60%;
+     padding: 15px 0px;
+     padding-left: 29px;
+   }
+ }
+
+
+ /* Medium devices (tablets, 768px and up) */
+ @media (min-width: 768px) and (max-width: 991.98px) {
+
+   /* Header  start */
+   .logo {
+     font-size: 40px;
+   }
+
+   .menu li {
+     text-align: right;
+   }
+
+   .btn-custom {
+     margin-top: 10px;
+     margin-left: 0px;
+
+   }
+
+   .btn {
+     padding: 10px 20px !important;
+   }
+
+   /* Header  end */
+   /* Slider Start */
+   .slider {
+     padding: 55px 0px;
+   }
+
+   .slider-text h5 {
+     margin-top: 10px;
+     margin-bottom: 10px;
+     text-align: center;
+
+   }
+
+   .slider-text h1 {
+     text-align: center;
+     font-size: 40px;
+
+   }
+
+   .slider-text p {
+     margin: 15px 0 25px;
+     text-align: center;
+   }
+
+   .slider-btn {
+     margin: 0px 40%;
+     padding: 15px 20px !important;
+     text-align: center;
+
+
+   }
+
+   .cid {
+     bottom: -60px;
+   }
+
+   .cid [data-bs-target] {
+     width: 10px;
+     height: 10px;
+   }
+
+   /* About US start */
+   .custom-padding {
+     padding: 60px 0px;
+   }
+
+   .a_img img {
+     margin: 0;
+     padding: 0px 12%;
+   }
+
+   .ab_img_content {
+     width: 150px;
+     height: 150px;
+     top: 91px;
+     left: 120px;
+   }
+
+   .ab_img_content h1 {
+     font-size: 30px;
+   }
+
+   .about-content {
+     margin-left: 0px;
+   }
+
+   .c_title h4 {
+     text-align: center;
+     margin: 20px 0px 0px;
+     font-size: 25px;
+   }
+
+   .c_title h1 {
+     text-align: center;
+     margin: 0 0 12px;
+     font-family: Fira_Sans;
+     font-weight: 500;
+     font-size: 40px;
+     color: #1F1F1F;
+   }
+
+   .about-content p {
+     text-align: center;
+     letter-spacing: 1px;
+     line-height: 29px;
+   }
+
+   .about-item {
+     text-align: center;
+   }
+
+   .about-btn {
+     margin: 13px 39% 0px;
+     padding: 15px 28px !important;
+   }
+
+   /* Services Start */
+   .services {
+     padding-top: 0px;
+   }
+
+   .s-service {
+     padding: 0px 40px;
+   }
+
+   .s-service-content i {
+     margin-bottom: 30px;
+     font-size: 70px;
+   }
+
+   .s-service:nth-child(2) {
+     border: none;
+   }
+
+   .s-service-content h5 {
+     font-size: 18px;
+     margin-bottom: 10px;
+   }
+
+   /* Number Speak Start */
+   .single-number {
+     padding: 30.5px 0;
+     margin-top: 18px;
+   }
+
+   .single-number i {
+     margin-bottom: 10px;
+     font-size: 70px;
+   }
+
+   .single-number h1 {
+     margin-bottom: 0px;
+     font-family: Fira_Sans;
+     font-size: 50px;
+   }
+
+   .single-number p {
+     font-size: 16px;
+   }
+
+   /* Features Start */
+   .s-features:nth-child(2) {
+     border: none;
+   }
+
+   .s-features:nth-child(3) {
+     margin: 30px auto 0px;
+     border-right: none;
+   }
+
+   .s-features-content {
+     padding: 0px 26px;
+   }
+
+   .s-features-content p {
+     margin-bottom: 20px;
+     margin-top: 20px;
+   }
+
+   /* Price Rate start */
+   .s-price {
+     margin-top: 25px;
+   }
+
+   .s-price-item h4 {
+     margin-top: 20px;
+     margin-bottom: 15px;
+   }
+
+   .s-price-item p {
+     font-weight: 400;
+     margin: 0 35px 10px;
+   }
+
+   .price-rate {
+     margin-top: 20px;
+     font-size: 38px;
+   }
+
+   /* Book Now */
+   .btn-book {
+     padding: 18px 104px !important;
+   }
+
+   /* Partners Start */
+   .p-title {
+     text-align: center;
+   }
+
+   .b-img-s:nth-child(3) {
+     margin-top: 30px;
+   }
+
+   .b-img-s:nth-child(4) {
+     margin-top: 30px;
+   }
+
+   /* Testimonial */
+   .single-test p {
+     text-align: center;
+   }
+
+   .author {
+     text-align: center;
+   }
+
+   .author-text {
+     margin-left: 0px;
+   }
+
+   .author-text h2 {
+     text-align: center;
+     font-size: 20px;
+   }
+
+   .author-text h4 {
+     font-size: 14px;
+     text-align: center;
+   }
+
+   /* Footer Top Start */
+   .footer-top {
+     padding: 60px 0px !important;
+   }
+
+   .s-footer {
+
+     text-align: center;
+   }
+
+   .s-footer:nth-child(3) {
+     margin-top: 14px;
+   }
+
+   .s-footer h3 {
+     margin-bottom: 20px;
+   }
+
+   .contact {
+     margin-top: 4px;
+     padding-right: 0;
+   }
+
+   .s-footer p {
+     padding-right: 2%;
+   }
+
+   .contact-news {
+     margin: 0;
+     padding-right: 0px;
+   }
+
+   .social-icon-list {
+     margin-top: 20px;
+   }
+
+   .subscribe input {
+     margin: 0px;
+     width: 51%;
+     height: 51%;
+     padding: 16px 0px;
+     padding-left: 29px;
+   }
+
+   .subscribe button {
+     top: 50%;
+     right: 182px;
+     width: 40px;
+     height: 40px;
+     line-height: 39px;
+   }
+
+ }
+
+
+ /* Large devices (desktops, 992px and up) */
+ @media (min-width: 992px) and (max-width: 1199.98px) {
+
+   /* About Us */
+   .custom-padding {
+     padding: 90px 0px;
+   }
+
+   .c_title h1 {
+     font-size: 45px;
+   }
+
+   .ab_img_content {
+     width: 170px;
+     height: 170px;
+
+     left: 30px;
+   }
+
+   .ab_img_content h1 {
+     font-size: 35px;
+   }
+
+   .about-content p {
+     letter-spacing: 0px;
+     line-height: 29px;
+   }
+
+   /* Service start */
+   .services {
+     padding-top: 0px;
+   }
+
+   .s-service {
+     padding: 0px 17px;
+   }
+
+   */
+
+   /* Features Start */
+   .s-features-content {
+     padding: 0px 9px;
+   }
+
+   /* Book */
+   .btn-book {
+     padding: 17px 45px !important;
+   }
+
+   /* Footer */
+   .contact-news {
+     padding-right: 32%;
+   }
+
+   .subscribe input {
+
+     width: 76%;
+   }
+
+   .subscribe button {
+     right: 78px;
+   }
+ }
+
+ /* Extra large devices (large desktops, 1200px and up) */
+ @media (min-width: 1200px) and (max-width: 1399.98px) {}
+
+ /* Extra large devices (large desktops, 1400px and up) */
+ @media (min-width: 1400px) {
+   .btn-book {
+     padding: 17px 90px !important;
+   }
+
+   .gutter-x {
+     --bs-gutter-x: -95px;
+   }
+
+   .author-text h2 {
+     font-size: 21px;
+
+   }
+
+   .author-text h4 {
+     font-size: 16px;
+   }
+
+   .subscribe button {
+     top: 60%;
+     right: 149px;
+   }
+ }
